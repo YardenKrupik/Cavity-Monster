@@ -5,17 +5,17 @@ Cavity Monster - Made by Yarden Krupik (3542468), University of Stuttgart, Germa
 Preparing the game after importing .unitypackage:
 1. Go to Assets -> Scenes, you will find there 3 scenes
 2. Put the Scenes in the "Hierarchy" section.
-3. The order is:
-Menu
-Level1
-Level2
+3. The order is:   
+Menu  
+Level1   
+Level2   
  ...and Remove any other scene!
 4. Go to File -> Build Settings
 5. Click on "Add Open Scenes"
-6. Make sure the only scenes in Build are, and in the order of:
-(v) Scenes/Menu                  0
-(v) Scenes/Level1                1
-(v) Scenes/Level2                2
+6. Make sure the only scenes in Build are, and in the order of:   
+(v) Scenes/Menu                  0   
+(v) Scenes/Level1                1   
+(v) Scenes/Level2                2   
 7. In the hierarchy section, click the 3 vertical dots on the right of Level1
 8. Click "Unload Scene"
 9. Same with Level2
